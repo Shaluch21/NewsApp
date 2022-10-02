@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="breaking_news">Breaking News</string>
+    <string name="search_news">Search News</string>
+    <string name="noresultfound">No Results Found</string>
+    <string name="retry">Retry</string>
+    <string name="results_could_not_be_loaded">Results could not be loaded</string>
+    <string name="search">Search</string>
+    <string name="reuters">Reuters</string>
+    <string name="formated_time">2020-04-15T12:47:24Z</string>
+    <string name="heading">Trump\'s move to cut WHO funding prompts world condemnation - Reuters</string>
+    <string name="sub_heading">U.S. President Donald Trump\'s move to halt funding to the world Health Organization over its handling of the corona virus pendemic prompted condemnation on wednesday from</string>
+</resources>
